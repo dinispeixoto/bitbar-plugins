@@ -8,3 +8,7 @@ Mac Menu Bar plugins using [BitBar](https://github.com/matryer/bitbar)
 - **Chuck Norris jokes**: Display a [random Chuck Norris joke](https://github.com/chucknorris-io/chuck-api).
 
 ![Spotify Status image](https://raw.github.com/dinispeixoto/BitBar-plugins/master/imgs/cn_jokes.png)
+
+- **CPU Status**: Display current fan(s) speed and (optionally) current [CPU temperature](https://github.com/lavoiesl/osx-cpu-temp).
+
+![CPU Status image](https://raw.github.com/dinispeixoto/BitBar-plugins/master/imgs/cpu_status.gif)
