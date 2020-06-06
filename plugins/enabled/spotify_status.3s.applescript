@@ -1,0 +1,1 @@
+../spotify_status.3s.applescript
