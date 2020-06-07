@@ -1,1 +1,1 @@
-../stocks.10s.py
+../stocks/stocks.10s.py

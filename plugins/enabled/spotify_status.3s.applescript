@@ -1,1 +1,1 @@
-../spotify_status.3s.applescript
+../spotify_status/spotify_status.3s.applescript
