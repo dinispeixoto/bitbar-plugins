@@ -1,1 +1,0 @@
-../spotify_song/spotify_song.3s.applescript
