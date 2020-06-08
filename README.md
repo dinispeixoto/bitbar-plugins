@@ -1,6 +1,6 @@
 # BitBar-plugins
 
-Mac Menu Bar plugins using [BitBar](https://github.com/matryer/bitbar)
+Mac menu bar plugins using [BitBar](https://github.com/matryer/bitbar)
 
 - [Spotify song](plugins/spotify_song/README.md)
 - [CPU status](plugins/cpu_status/README.md)
